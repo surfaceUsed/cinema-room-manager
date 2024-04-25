@@ -1,7 +1,7 @@
 # cinema-room-manager
 Simple CML-application to manage a cinema.
 
-Hyperskill project (Introduction to Java). Stage 5/5.
+Hyperskill project "Cinema room manager" (Introduction to Java). Stage 5/5.
 
 The user is asked to create a cinema with x-amounts of rows and seats in each row.
 If the total number of seats in the cinema are < 60 then the ticket price is 10$.
